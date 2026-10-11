@@ -1,0 +1,6 @@
+{
+  "name": "A-Z MATH",
+  "description": "Plateforme éducative de mathématiques pour le collège au Maroc (1AC, 2AC, 3AC) : cours, résumés, exercices corrigés et examens régionaux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
